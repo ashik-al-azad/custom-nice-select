@@ -1,0 +1,2 @@
+  // nice select
+  $(".select").niceSelect();
